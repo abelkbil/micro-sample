@@ -1,0 +1,14 @@
+C:\Abel\Dev\micro-sample\api-sample\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.deps.json
+C:\Abel\Dev\micro-sample\api-sample\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.runtimeconfig.json
+C:\Abel\Dev\micro-sample\api-sample\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.runtimeconfig.dev.json
+C:\Abel\Dev\micro-sample\api-sample\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.dll
+C:\Abel\Dev\micro-sample\api-sample\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.pdb
+C:\Abel\Dev\micro-sample\api-sample\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.csprojAssemblyReference.cache
+C:\Abel\Dev\micro-sample\api-sample\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.csproj.CoreCompileInputs.cache
+C:\Abel\Dev\micro-sample\api-sample\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.RazorAssemblyInfo.cache
+C:\Abel\Dev\micro-sample\api-sample\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.RazorAssemblyInfo.cs
+C:\Abel\Dev\micro-sample\api-sample\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.AssemblyInfoInputs.cache
+C:\Abel\Dev\micro-sample\api-sample\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.AssemblyInfo.cs
+C:\Abel\Dev\micro-sample\api-sample\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.RazorTargetAssemblyInfo.cache
+C:\Abel\Dev\micro-sample\api-sample\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.dll
+C:\Abel\Dev\micro-sample\api-sample\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.pdb
