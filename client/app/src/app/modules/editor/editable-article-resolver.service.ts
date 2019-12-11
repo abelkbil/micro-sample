@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { ActivatedRouteSnapshot, Resolve, Router, RouterStateSnapshot } from '@angular/router';
 import { Observable } from 'rxjs';
 
-import { Article, ArticlesService, UserService } from '../core';
+import { Article, ArticlesService, UserService } from '../../core';
 import { catchError ,  map } from 'rxjs/operators';
 
 @Injectable()
@@ -22,11 +22,11 @@ export class EditableArticleResolver implements Resolve<Article> {
       .pipe(
         map(
           article => {
-            if (this.userService.getCurrentUser().username === article.author.username) {
-              return article;
-            } else {
-              this.router.navigateByUrl('/');
-            }
+            // if (this.userService.getCurrentUser().username === article.author.username) {
+            //   return article;
+            // } else {
+            //   this.router.navigateByUrl('/');
+            // }
           }
         ),
         catchError((err) => this.router.navigateByUrl('/'))

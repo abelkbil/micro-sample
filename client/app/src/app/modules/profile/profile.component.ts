@@ -1,8 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 
-import { User, UserService, Profile } from '../core';
 import { concatMap ,  tap } from 'rxjs/operators';
+import { UserService, Profile, User } from '../../core';
 
 @Component({
   selector: 'app-profile-page',
